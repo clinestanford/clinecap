@@ -1,0 +1,2 @@
+# clinecap
+static website
